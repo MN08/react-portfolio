@@ -18,7 +18,7 @@ class About extends React.Component{
                 <Fade duration={100}>
                     <div className="row">
                         <div className="three columns">
-                            <img className="profile-pic" src={profilePict} alt="profile picture"/>
+                            <img className="profile-pic" src={profilePict} alt="profilepict"/>
                         </div>
                         <div className="nine columns main-col">
                             <h2>About Me</h2>
